@@ -1,1 +1,12 @@
 # HW2-Boostrap
+- Git command used in this lab
+- git clone https://github.com/chayapon47/HW2-Boostrap
+- git add .
+- git commit -m "โครงสร้างพื้นฐาน"
+- git add .
+- git commit -m "แก้ไขหน้า Home"
+- git add .
+- git commit -m "เพิ่ม Style ใน css"
+- git add .
+- git commit -m "เพิ่มข้อมูลและแก้ไขสถานที่"
+- git push
