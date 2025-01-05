@@ -9,4 +9,6 @@
 - git commit -m "เพิ่ม Style ใน css"
 - git add .
 - git commit -m "เพิ่มข้อมูลและแก้ไขสถานที่"
+- git add .
+- git commit -m "เพิ่ม Screenshot"
 - git push
